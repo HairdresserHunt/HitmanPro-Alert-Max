@@ -1,0 +1,23 @@
+{
+  "repo": "hitmanpro-alert-max",
+  "product": "HitmanPro Alert Max",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "hitmanpro-alert",
+    "hitmanpro-windows",
+    "endpoint-security-desktop",
+    "how-to-install-hitmanpro",
+    "hitmanpro-alert-desktop-package",
+    "hitmanpro-workspace",
+    "hitmanpro-alert-pro-tools",
+    "hitmanpro-suite",
+    "zentool-hitmanpro",
+    "hitmanpro-alert-tool-9"
+  ],
+  "site": "zentool.art"
+}
